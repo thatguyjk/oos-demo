@@ -1,4 +1,4 @@
-# Webpack THREE.js Template
+# Out of Space (OOS) THREE.js Demo
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).

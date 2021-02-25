@@ -3,6 +3,8 @@ node_modules
 /dist
 .cache
 
+*.zip
+
 # Editor directories and files
 .idea
 .vscode
